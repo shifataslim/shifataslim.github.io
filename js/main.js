@@ -250,6 +250,10 @@ function renderExperience(experienceData) {
               <ul class="timeline-highlights">
                 ${exp.highlights.map(h => `<li class="timeline-highlight">${h}</li>`).join('')}
               </ul>
+              ${exp.links && exp.links.length ? `
+              <div class="timeline-links">
+                ${exp.links.map(l => `<a class="timeline-link" href="${l.url}" target="_blank" rel="noopener noreferrer">${ICONS['external-link'] || ''} ${l.label}</a>`).join('')}
+              </div>` : ''}
               <div class="timeline-tags">
                 ${exp.tags.map(t => `<span class="tag">${t}</span>`).join('')}
               </div>

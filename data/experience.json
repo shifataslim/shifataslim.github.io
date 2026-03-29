@@ -126,7 +126,17 @@
         "Produced situation reports and briefing notes for humanitarian clusters (ISCG)",
         "Coordinated with camp management agencies and sector leads for assessment access"
       ],
-      "tags": ["Field Research", "Needs Assessment", "Data Collection", "Rohingya Response", "Team Management"]
+      "tags": ["Field Research", "Needs Assessment", "Data Collection", "Rohingya Response", "Team Management"],
+      "links": [
+        {
+          "label": "Education Needs Assessment Report (March 2019)",
+          "url": "https://repository.impact-initiatives.org/document/impact/8ab3968b/reach_bgd_report_education_needs_assessment_march_2019.pdf"
+        },
+        {
+          "label": "Host Community MSNA Report (March 2019)",
+          "url": "https://repository.impact-initiatives.org/document/impact/2ed40114/BGD_Report_Host-Community-MSNA_March-2019.pdf"
+        }
+      ]
     },
     {
       "id": "brac",
