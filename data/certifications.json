@@ -1,0 +1,53 @@
+{
+  "_note": "Update each entry with your actual certification details. Set 'placeholder' to false when you've filled in the real information.",
+  "certifications": [
+    {
+      "id": "cert-protection",
+      "title": "Community-Based Protection",
+      "issuer": "UNHCR",
+      "date": "2020",
+      "credential_url": "",
+      "placeholder": false
+    },
+    {
+      "id": "cert-trauma",
+      "title": "Trauma-Informed Care",
+      "issuer": "IRC",
+      "date": "2024",
+      "credential_url": "",
+      "placeholder": false
+    },
+    {
+      "id": "cert-safeguarding",
+      "title": "Safeguarding & PSEA",
+      "issuer": "BBC Media Action",
+      "date": "2019",
+      "credential_url": "",
+      "placeholder": false
+    },
+    {
+      "id": "cert-child-data",
+      "title": "Child Participatory Data Collection",
+      "issuer": "Save the Children",
+      "date": "2019",
+      "credential_url": "",
+      "placeholder": false
+    },
+    {
+      "id": "cert-cultural",
+      "title": "Cultural Assessment & Competency",
+      "issuer": "IRC",
+      "date": "2024",
+      "credential_url": "",
+      "placeholder": false
+    },
+    {
+      "id": "cert-placeholder-1",
+      "title": "Add Your Certification Here",
+      "issuer": "Issuing Organization",
+      "date": "Year",
+      "credential_url": "",
+      "placeholder": true
+    }
+  ]
+}

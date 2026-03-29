@@ -1,0 +1,95 @@
+{
+  "services": [
+    {
+      "id": "program-design",
+      "icon": "clipboard-check",
+      "title": "Program Design & Management",
+      "description": "End-to-end design of social impact programs — from theory of change to implementation planning, budgeting, and adaptive management.",
+      "bullets": [
+        "Theory of change development",
+        "Logical framework (logframe) design",
+        "Work planning and milestone tracking",
+        "Stakeholder coordination"
+      ],
+      "color_accent": "teal"
+    },
+    {
+      "id": "monitoring-evaluation",
+      "icon": "chart-bar",
+      "title": "Monitoring & Evaluation",
+      "description": "Design and execution of M&E systems that produce actionable insights, not just compliance reports.",
+      "bullets": [
+        "MEL framework development",
+        "Survey and tool design",
+        "Data collection and management",
+        "Performance reporting and dashboards"
+      ],
+      "color_accent": "amber"
+    },
+    {
+      "id": "research-analysis",
+      "icon": "magnifying-glass",
+      "title": "Research & Data Analysis",
+      "description": "Mixed-methods research using Tableau, R, Stata, and Dedoose. Translating complex data into clear, compelling narratives.",
+      "bullets": [
+        "Quantitative analysis (R, Stata)",
+        "Qualitative coding (Dedoose)",
+        "Data visualization (Tableau)",
+        "Literature reviews and syntheses"
+      ],
+      "color_accent": "blue"
+    },
+    {
+      "id": "grant-writing",
+      "icon": "document-text",
+      "title": "Grant Writing & Proposals",
+      "description": "Compelling funding proposals grounded in evidence, aligned to funder priorities, and built on strong program logic.",
+      "bullets": [
+        "Needs assessment and gap analysis",
+        "Budget narrative development",
+        "Donor landscape mapping",
+        "Reporting and compliance writing"
+      ],
+      "color_accent": "green"
+    },
+    {
+      "id": "community-engagement",
+      "icon": "users",
+      "title": "Community Outreach & Engagement",
+      "description": "Culturally responsive engagement strategies that build trust, center community voice, and drive participation.",
+      "bullets": [
+        "Community needs assessments",
+        "Focus group facilitation",
+        "Stakeholder mapping",
+        "Partnership development"
+      ],
+      "color_accent": "amber"
+    },
+    {
+      "id": "training-capacity",
+      "icon": "academic-cap",
+      "title": "Training & Capacity Building",
+      "description": "Workshop design and facilitation for NGO staff, government partners, and community leaders.",
+      "bullets": [
+        "Curriculum development",
+        "Facilitation and training delivery",
+        "Knowledge management systems",
+        "Train-the-trainer programs"
+      ],
+      "color_accent": "teal"
+    },
+    {
+      "id": "policy-analysis",
+      "icon": "scale",
+      "title": "Policy Analysis & Advocacy",
+      "description": "Evidence-based policy briefs, advocacy strategies, and analysis for NGOs, foundations, and government agencies.",
+      "bullets": [
+        "Policy landscape mapping",
+        "Policy brief and memo writing",
+        "Advocacy strategy development",
+        "Legislative and regulatory analysis"
+      ],
+      "color_accent": "blue"
+    }
+  ]
+}

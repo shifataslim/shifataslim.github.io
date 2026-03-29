@@ -1,0 +1,29 @@
+{
+  "name": "Shifa Taslim Chowdhury",
+  "tagline": "Humanitarian Researcher & Development Consultant",
+  "subtitle": "Turning data into dignity — 6+ years designing programs, driving research, and building communities across three continents.",
+  "location": "Seattle, WA",
+  "phone": "(585) 981-8350",
+  "email": "shifataslim5@gmail.com",
+  "linkedin": "https://linkedin.com/in/shifa-taslim-chowdhury-21b243a4",
+  "availability": "Available for Freelance Projects",
+  "headshot": "assets/images/headshot.jpg",
+  "resume_pdf": "assets/ShifaResume.pdf",
+  "about": {
+    "paragraphs": [
+      "I am a development practitioner and researcher with over six years of experience spanning humanitarian response, community safety, higher education, and international development.",
+      "My work has taken me from the refugee settlements of Cox's Bazar to university campuses in Denver to community organizations in Seattle — always with the same goal: translating evidence into action that improves lives.",
+      "I combine rigorous quantitative and qualitative research skills with program management, stakeholder engagement, and a deep commitment to equity-centered approaches."
+    ],
+    "highlights": [
+      { "number": "6", "suffix": "+", "label": "Years Experience" },
+      { "number": "3", "suffix": "", "label": "Continents" },
+      { "number": "5", "suffix": "", "label": "Sectors" },
+      { "number": "8", "suffix": "+", "label": "Organizations" }
+    ]
+  },
+  "nav": {
+    "brand": "STC",
+    "links": ["About", "Services", "Experience", "Education", "Skills", "Hire Me", "Contact"]
+  }
+}

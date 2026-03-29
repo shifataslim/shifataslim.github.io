@@ -1,0 +1,83 @@
+{
+  "profile_title": "M&E Specialist | Grant Writer | International Development Consultant | Tableau · R · Stata",
+  "tagline": "Available for freelance engagements on Upwork",
+  "upwork_url": "",
+  "rate_range": {
+    "min": 55,
+    "max": 90,
+    "currency": "USD",
+    "unit": "hr",
+    "note": "Fixed-price projects also available"
+  },
+  "differentiators": [
+    {
+      "icon": "chart-bar",
+      "title": "Mixed-Methods Fluency",
+      "description": "Rare combination of Stata & R (quantitative) + Dedoose (qualitative) — ideal for rigorous impact evaluations and USAID-compliant M&E."
+    },
+    {
+      "icon": "globe",
+      "title": "Cross-Cultural Field Experience",
+      "description": "3 continents, 5 sectors — experience with UNHCR, IRC, and BBC Media Action gives context that desk-based consultants simply don't have."
+    },
+    {
+      "icon": "badge-check",
+      "title": "Recognized Institutional Credentials",
+      "description": "Aspen Institute Fellow, BBC Media Action, BRAC, REACH Initiative — trust signals that matter in competitive, donor-funded environments."
+    },
+    {
+      "icon": "clipboard-check",
+      "title": "End-to-End Deliverables",
+      "description": "From needs assessment to final donor report — the full cycle handled so your team doesn't stitch together multiple consultants."
+    }
+  ],
+  "top_services": [
+    {
+      "id": "mel",
+      "icon": "chart-bar",
+      "title": "M&E / MEL Framework Design",
+      "description": "USAID-aligned monitoring, evaluation & learning frameworks with indicators, data collection tools, and reporting templates.",
+      "color_accent": "teal",
+      "badge": "Most Requested",
+      "fixed_price_from": "From $800"
+    },
+    {
+      "id": "grant",
+      "icon": "document-text",
+      "title": "Grant Writing & Proposals",
+      "description": "Full proposals, concept notes, and donor reports for USAID, FCDO, UN agencies, foundations, and private donors.",
+      "color_accent": "green",
+      "badge": "High Demand",
+      "fixed_price_from": "From $600"
+    },
+    {
+      "id": "research",
+      "icon": "magnifying-glass",
+      "title": "Research & Statistical Analysis",
+      "description": "Mixed-methods research, quantitative analysis (R, Stata), qualitative coding (Dedoose), and data visualization (Tableau).",
+      "color_accent": "blue",
+      "fixed_price_from": "From $500"
+    },
+    {
+      "id": "needs",
+      "icon": "users",
+      "title": "Needs Assessments",
+      "description": "Field-based and desk-based needs assessments for humanitarian response, development programming, and donor due diligence.",
+      "color_accent": "amber",
+      "fixed_price_from": "From $600"
+    }
+  ],
+  "ideal_clients": [
+    "NGOs & Nonprofits",
+    "UN Agencies",
+    "Bilateral Donors (USAID, FCDO)",
+    "Foundations & Philanthropies",
+    "Research Institutions",
+    "Government Contractors"
+  ],
+  "skills_tags": [
+    "Monitoring & Evaluation", "Grant Writing", "International Development",
+    "Qualitative Research", "Stata", "R", "Tableau", "Needs Assessment",
+    "Program Management", "Policy Analysis", "Training & Development", "Proposal Writing"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "data-tools",
+      "label": "Data & Analytics",
+      "icon": "chart-bar",
+      "skills": [
+        { "name": "Tableau", "level": 90 },
+        { "name": "R (Statistical Computing)", "level": 80 },
+        { "name": "Stata", "level": 80 },
+        { "name": "Dedoose (Qualitative)", "level": 85 },
+        { "name": "Excel / Google Sheets", "level": 95 }
+      ]
+    },
+    {
+      "id": "case-management",
+      "label": "Case Management Systems",
+      "icon": "server",
+      "skills": [
+        { "name": "Slate CRM", "level": 82 },
+        { "name": "Agiloft", "level": 75 },
+        { "name": "GetCare", "level": 75 },
+        { "name": "InfoNet", "level": 75 },
+        { "name": "IRS (IRC Resettlement System)", "level": 72 }
+      ]
+    },
+    {
+      "id": "program-skills",
+      "label": "Program & Research Skills",
+      "icon": "clipboard",
+      "skills": [
+        { "name": "M&E Framework Design", "level": 92 },
+        { "name": "Needs Assessments", "level": 90 },
+        { "name": "Stakeholder Facilitation", "level": 90 },
+        { "name": "Grant Writing", "level": 85 },
+        { "name": "Policy Analysis", "level": 85 },
+        { "name": "Training Design & Delivery", "level": 85 }
+      ]
+    },
+    {
+      "id": "languages",
+      "label": "Languages",
+      "icon": "globe",
+      "display": "pips",
+      "skills": [
+        { "name": "English", "level": 100, "label": "Native / Fluent" },
+        { "name": "Bengali (Bangla)", "level": 100, "label": "Native" },
+        { "name": "Hindi / Urdu", "level": 70, "label": "Conversational" }
+      ]
+    }
+  ]
+}

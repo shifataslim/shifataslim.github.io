@@ -1,0 +1,46 @@
+{
+  "education": [
+    {
+      "id": "university-of-denver",
+      "degree": "Master of Arts",
+      "field": "Development Economics & International Development",
+      "institution": "University of Denver",
+      "location": "Denver, CO",
+      "graduation": "May 2024",
+      "honors": "",
+      "relevant_coursework": [
+        "Development Economics",
+        "Program Design and Evaluation",
+        "Qualitative Research Methods",
+        "Policy Analysis",
+        "Global Health and Development",
+        "International Organization"
+      ],
+      "activities": [
+        "Graduate Research Assistant — Center for Immigration Policy & Research",
+        "Nathanson Fellow — The Aspen Institute",
+        "Student Engagement & Enrollment Specialist"
+      ]
+    },
+    {
+      "id": "asian-university-women",
+      "degree": "Bachelor of Arts",
+      "field": "Politics, Philosophy, & Economics",
+      "institution": "Asian University for Women",
+      "location": "Chittagong, Bangladesh",
+      "graduation": "May 2018",
+      "honors": "",
+      "relevant_coursework": [
+        "Political Economy",
+        "Development Studies",
+        "Philosophy of Social Science",
+        "Microeconomics & Macroeconomics",
+        "Gender and Development",
+        "International Relations"
+      ],
+      "activities": [
+        "Student leadership and community engagement initiatives"
+      ]
+    }
+  ]
+}

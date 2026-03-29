@@ -1,0 +1,150 @@
+{
+  "experience": [
+    {
+      "id": "somali-family-safety",
+      "title": "Assistant to the Executive Director",
+      "organization": "Somali Family Safety Task Force",
+      "location": "Seattle, WA",
+      "start": "December 2024",
+      "end": "August 2025",
+      "type": "full-time",
+      "sector": "Community Safety",
+      "description": "Supported executive leadership of a community-based organization serving Somali families in the Seattle area, coordinating organizational operations and driving community safety initiatives.",
+      "highlights": [
+        "Coordinated organizational operations and stakeholder communications at the executive level",
+        "Supported program planning, grant reporting, and donor relations",
+        "Facilitated community engagement and outreach initiatives serving Somali families",
+        "Managed scheduling, correspondence, and administrative systems for the Executive Director"
+      ],
+      "tags": ["Community Safety", "Program Management", "Stakeholder Engagement", "Operations"]
+    },
+    {
+      "id": "irc-intern",
+      "title": "Resettlement Caseworker Intern",
+      "organization": "International Rescue Committee",
+      "location": "Seattle, WA",
+      "start": "November 2024",
+      "end": "December 2024",
+      "type": "internship",
+      "sector": "Humanitarian Response",
+      "description": "Provided direct services to newly arrived refugees navigating the U.S. resettlement process, managing cases and coordinating with partner agencies.",
+      "highlights": [
+        "Managed client cases using IRC case management systems (IRS, GetCare)",
+        "Coordinated with partner agencies for service delivery and benefits enrollment",
+        "Supported family orientation, documentation, and initial resettlement planning",
+        "Conducted home visits and client follow-ups to ensure service continuity"
+      ],
+      "tags": ["Refugee Resettlement", "Case Management", "Humanitarian Response", "Direct Services"]
+    },
+    {
+      "id": "university-of-denver",
+      "title": "Student Engagement & Enrollment Specialist",
+      "organization": "University of Denver",
+      "location": "Denver, CO",
+      "start": "September 2022",
+      "end": "May 2024",
+      "type": "full-time",
+      "sector": "Higher Education",
+      "description": "Drove enrollment and student success initiatives for a graduate-level international development program, managing the full recruitment pipeline from prospect to matriculation.",
+      "highlights": [
+        "Managed full enrollment pipeline from initial inquiry through matriculation",
+        "Designed and executed outreach campaigns targeting international and domestic applicants",
+        "Built and maintained CRM records in Slate to track engagement and optimize conversions",
+        "Organized information sessions, campus visits, and virtual events for prospective students",
+        "Collaborated with faculty and admissions to improve yield rates"
+      ],
+      "tags": ["Higher Education", "Enrollment", "Community Engagement", "Slate CRM"]
+    },
+    {
+      "id": "immigration-research",
+      "title": "Graduate Research Assistant",
+      "organization": "Center for Immigration Policy & Research",
+      "location": "Denver, CO",
+      "start": "October 2023",
+      "end": "December 2024",
+      "type": "part-time",
+      "sector": "Research",
+      "description": "Conducted mixed-methods research on immigration policy and its community impacts, contributing to policy briefs and academic outputs.",
+      "highlights": [
+        "Designed and administered survey instruments for immigration policy research",
+        "Coded qualitative interview data using Dedoose for thematic analysis",
+        "Contributed to policy briefs and academic publications on immigration topics",
+        "Conducted literature reviews and synthesized findings for research reports"
+      ],
+      "tags": ["Immigration Policy", "Qualitative Research", "Dedoose", "Policy Analysis"]
+    },
+    {
+      "id": "aspen-institute",
+      "title": "Nathanson Fellow & GYON Intern",
+      "organization": "The Aspen Institute",
+      "location": "Washington, DC",
+      "start": "May 2023",
+      "end": "November 2023",
+      "type": "fellowship",
+      "sector": "International Development",
+      "description": "Prestigious fellowship focused on youth-led advocacy and international development practice through the Global Youth Opportunity Network (GYON).",
+      "highlights": [
+        "Developed policy analysis products and briefing materials for senior leadership",
+        "Participated in the Global Young Officials Network (GYON) international convening",
+        "Contributed to cross-sector knowledge exchange on development finance and youth advocacy",
+        "Represented the Nathanson Fellows cohort in policy roundtables and convenings"
+      ],
+      "tags": ["Fellowship", "Policy Analysis", "Advocacy", "International Development", "Youth"]
+    },
+    {
+      "id": "bbc-media-action",
+      "title": "Humanitarian Officer — Rohingya & COVID-19 Response",
+      "organization": "BBC Media Action",
+      "location": "Cox's Bazar, Bangladesh",
+      "start": "August 2019",
+      "end": "January 2021",
+      "type": "full-time",
+      "sector": "Humanitarian Response",
+      "description": "Led humanitarian communications and information programming for one of the world's largest displacement crises — the Rohingya refugee response in Cox's Bazar, Bangladesh.",
+      "highlights": [
+        "Designed and implemented information campaigns reaching 100,000+ Rohingya refugees",
+        "Coordinated with UNHCR, IOM, and NGO partners on joint information and messaging strategies",
+        "Managed community feedback mechanisms and accountability to affected populations (AAP)",
+        "Led COVID-19 communications response, adapting programming during pandemic onset",
+        "Produced situation reports and briefing notes for humanitarian coordination clusters"
+      ],
+      "tags": ["Humanitarian", "Communications", "Rohingya Response", "COVID-19", "UNHCR", "Coordination"]
+    },
+    {
+      "id": "reach-initiative",
+      "title": "Field Coordinator",
+      "organization": "REACH Initiative",
+      "location": "Cox's Bazar, Bangladesh",
+      "start": "November 2018",
+      "end": "August 2019",
+      "type": "full-time",
+      "sector": "Research",
+      "description": "Led field data collection and coordination for humanitarian needs assessments in Rohingya refugee camps, managing enumerator teams and ensuring data quality.",
+      "highlights": [
+        "Managed teams of enumerators conducting large-scale household surveys in refugee camps",
+        "Oversaw data quality assurance and validation for multi-sector needs assessments",
+        "Produced situation reports and briefing notes for humanitarian clusters (ISCG)",
+        "Coordinated with camp management agencies and sector leads for assessment access"
+      ],
+      "tags": ["Field Research", "Needs Assessment", "Data Collection", "Rohingya Response", "Team Management"]
+    },
+    {
+      "id": "brac",
+      "title": "Research Officer — Rohingya Response & Development Sector",
+      "organization": "BRAC",
+      "location": "Dhaka, Bangladesh",
+      "start": "March 2018",
+      "end": "November 2018",
+      "type": "full-time",
+      "sector": "Research",
+      "description": "Conducted program research for BRAC — the world's largest NGO — focused on Rohingya response and social protection and livelihood development programs.",
+      "highlights": [
+        "Designed qualitative and quantitative research protocols for program evaluation",
+        "Facilitated focus group discussions with program participants across communities",
+        "Analyzed field data and contributed to internal research reports and publications",
+        "Supported monitoring and evaluation activities for livelihood and social protection programs"
+      ],
+      "tags": ["Social Protection", "Livelihoods", "NGO Research", "Bangladesh", "M&E"]
+    }
+  ]
+}
